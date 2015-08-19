@@ -1,4 +1,4 @@
-jquery_plugin_codejobs
+Jquery Gallery plugin
 ======================
 
-jQuery Plugin Galeria Fotografica Basico para CodeJobs
+Basic jQuery plugin
